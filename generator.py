@@ -5,7 +5,7 @@ import os
 import threading
 
 # Configuration: Please set your API key here.
-API_KEY = "AIzaSyB0saJEwa-yULzN1hUXpdZDXCfZsYvRW4s"
+API_KEY = "YOUR UGLY API KEY FROM GOOGLE AI STUDIO HERE"
 
 class CommandGeneratorApp:
     def __init__(self, root):
@@ -129,3 +129,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = CommandGeneratorApp(root)
     root.mainloop()
+
